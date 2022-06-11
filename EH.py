@@ -162,7 +162,7 @@ def e_hentai_set(url):
 
 
 def main():
-    url = 'https://e-hentai.org/g/1325615/ba5267aa88/'
+    url = 'https://e-hentai.org/g/2218702/92c35a20ee/'
     # url=input("Please input address:")
     e_hentai_set(url)
 
